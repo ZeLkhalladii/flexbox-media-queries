@@ -1,3 +1,11 @@
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  
+  
   .cards {
     display: flex;
     flex-wrap: wrap;
